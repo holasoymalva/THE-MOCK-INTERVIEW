@@ -101,7 +101,7 @@
 **Martin Manriquez** - Software Engineer with 6 years of experience in Big Tech Companies. Passionate about helping others succeed in technical interviews.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Acknowledgments
 - Special thanks to all the contributors and reviewers.
