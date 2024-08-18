@@ -1,4 +1,4 @@
-# **THE MOCK INTERVIEW** : Mastering the Software Engineering Job Interview
+# **THE MOCK INTERVIEW**
 
 ## Overview
 
